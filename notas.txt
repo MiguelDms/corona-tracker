@@ -1,0 +1,12 @@
+1º vi como fazer um httprequest a um url, de modo a retornar uma string (no body).
+
+2º vi sobre o @service e o @postConstruct
+
+3º vejo como fazer parse ao csv com a libraria commons csv da apache
+
+4º ele cria um modelo (que é o objecto em si) e trata-o de modo a juntar uma array de coronavirus statements
+
+5º cria um controller (que não é REST), que aponta para um url no browser
+
+6º começo a trabalhar com html usando a dependency thymeleaf
+
